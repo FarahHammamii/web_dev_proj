@@ -1,4 +1,4 @@
-# LinkedIn Clone Project
+# Connectify
 
 ## Project Structure
 
@@ -34,11 +34,10 @@
 
 ## Installation
 
-1. Clone the repository:
+1. Access the folder
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+cd backend
 ```
 
 2. Install dependencies:
@@ -131,8 +130,6 @@ Stores notifications for users with fields `userId`, `type`, `read`, `createdAt`
 # Start the server
 node server.js
 
-# Or with nodemon for live reload
-npx nodemon server.js
 ```
 
 Your app should now be running on the port defined in your `.env` file (default 8081).
