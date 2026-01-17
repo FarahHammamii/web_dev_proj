@@ -44,9 +44,12 @@ cd <repository-folder>
 2. Install dependencies:
 
 ```bash
-npm install express morgan mongoose bcryptjs jsonwebtoken express-validator
+npm install express
+npm install morgan mongoose bcryptjs jsonwebtoken express-validator
 npm install swagger-ui-express swagger-jsdoc
-gnpm install groq-sdk ejs pdfkit google-auth-library
+npm install groq-sdk
+npm install ejs
+npm install pdfkit
 ```
 
 ## Environment Variables
