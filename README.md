@@ -1,10 +1,10 @@
-# Full‑Stack Platform — Backend & Frontend
+# Connectify— Backend & Frontend
 
 ## Overview
 
 This repository contains a **full‑stack web platform** composed of:
 
-* **Backend**: RESTful API built with Express, MongoDB, and supporting services (authentication, messaging, notifications, job offers, AI integration).
+* **Backend**: built with Express, MongoDB, and supporting services (authentication, messaging, notifications, job offers, AI integration).
 * **Frontend**: Web client that consumes the backend API and provides the user interface.
 
 Both parts live in the **same repository** but must be run **independently** in separate terminals.
@@ -23,7 +23,7 @@ Before starting, make sure you have:
 
 ## Installation & Setup
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/FarahHammamii/web_dev_proj
@@ -32,7 +32,7 @@ git clone https://github.com/FarahHammamii/web_dev_proj
 ---
 
 ## Backend Setup
-Navigate to the backend directory and follow all instructions presented under /backend/README.md
+Navigate to the backend directory and follow all instructions presented under **/backend/README.md**
 
 ### Backend Verification
 
@@ -43,7 +43,7 @@ http://localhost:8081/api-docs/
 ```
 
 If Swagger loads, the backend is running correctly.
-Swagger documentation will give you a better idea about our endpoints , allowing you to test them in a practical way.
+Swagger documentation will give you a better idea about our endpoints , **allowing you to test them in a practical way.**
 
 ---
 
@@ -100,7 +100,7 @@ http://localhost:8080
 
 ---
 
-## Project Structure (in a nutshell)
+## Project Structure (overview)
 
 ```
 /
