@@ -76,15 +76,6 @@ GROQ_API_KEY=YOUR_GROQ_API_KEY
 
 4. **Important:** Never commit your `.env` file. Use `.env.example` in the repo for reference.
 
-### Example `.env.example`
-
-```
-# .env.example
-MONGO_URI=your_mongo_uri_here
-PORT=8081
-JWT_SECRET=your_jwt_secret
-GROQ_API_KEY=your_groq_api_key_here
-```
 
 # Models Reference
 
